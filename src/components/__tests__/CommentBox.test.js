@@ -5,6 +5,8 @@ import CommentBox from 'components/CommentBox';
 
 let wrapped;
 
+
+
 beforeEach(() => {
     wrapped = mount(<CommentBox />);
 });
